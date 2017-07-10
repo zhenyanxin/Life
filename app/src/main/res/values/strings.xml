@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">生活管家</string>
+    <string name="index_message">\t\t小清新的首页设计，自定义主题切换，右滑获取界面。</string>
+    <string name="behave_message">\t\t每天坚持好习惯，创造一个更美好的明天。</string>
+    <string name="note_message">\t\t不管再怎么忙碌，每个人都需要一本属于自己的日记。</string>
+    <string name="schedule_massage">\t\t用几分钟做一天的安排，用规划勾勒人生。</string>
+</resources>
